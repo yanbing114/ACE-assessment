@@ -21,7 +21,13 @@ From this table, it shows that the mean and median (50%) of all feature are clos
 > 
 > ![Screenshot 2022-08-24 101053](https://user-images.githubusercontent.com/67685003/186302188-5dd60d24-8f12-475d-b72b-0174d4035014.jpg)
 
-The variance of all feature are quite low except for feature c and g. Feature a has the lowest variance with 0.000009 that means the difference between mean and other value are very small and this feature is consistent.
+>The variance of all feature are quite low except for feature c and g. Feature a has the lowest variance with 0.000009 that means the difference between mean and other value are very small and this feature is consistent.
+
+> vi. 
+> 
+> ![Task_1_corr](https://user-images.githubusercontent.com/67685003/186316499-4ab54439-a7ae-4358-8f17-529385a0f92d.jpg)
+
+>From the heatmap of correlation of the data set, it shows that most of the feature are negetively correlated to other feature. Features a and g are highly positive correlated (0.81) with each other. On the other hands, features a and h are the weak correlated (-0.00039).
 
 b. A graphical analysis of the additives, including a distribution study.
 
