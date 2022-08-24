@@ -12,8 +12,16 @@ Summary:
 
 > ii. All features are continuous variable.
 
-> iii. 
+> iii. no missing and infinity values in all features.
 
+> iv. ![Screenshot 2022-08-23 225924](https://user-images.githubusercontent.com/67685003/186301733-6d1191e0-5089-43ad-8b3b-525e6a8a5488.jpg)
+From this table, it shows that the mean and median (50%) of all feature are close to each other, this means all feature has a symmetrical distribution.
+
+> v. 
+> 
+> ![Screenshot 2022-08-24 101053](https://user-images.githubusercontent.com/67685003/186302188-5dd60d24-8f12-475d-b72b-0174d4035014.jpg)
+
+The variance of all feature are quite low except for feature c and g. Feature a has the lowest variance with 0.000009 that means the difference between mean and other value are very small and this feature is consistent.
 
 b. A graphical analysis of the additives, including a distribution study.
 
