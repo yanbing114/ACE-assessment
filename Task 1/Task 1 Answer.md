@@ -55,5 +55,14 @@ Summary:
 
 c. A clustering test of your choice (unsupervised learning), to determine the distinctive number of formulations present in the dataset.
 
+![Elbow_method_1](https://user-images.githubusercontent.com/67685003/186793016-ff7c95c1-0c59-4084-ad67-b94d2f364eaf.jpg)
+
+Using Elbow Method with KMeans clustering, it show that 7 cluster is suitable for this dataset.
+
+Then apply 7 cluster with KMeans Clustering on this dataset to review it.
+
+![clustering](https://user-images.githubusercontent.com/67685003/186793211-48280e83-0ff1-4923-a7a5-90255632c8a4.jpg)
+
+From the clutering scatterplot, it show 7 classes have been label by using KMeans clustering. However there are still some classes that overlapped with each other.
 
 (refer attachment : ingredients.csv)
